@@ -27,7 +27,7 @@ todo: check what repo this comes from
 apt install dotnet-sdk-2.2
 ```
 
-##Install Discord
+## Install Discord
 ```bash
 wget -O discord.deb "https://discordapp.com/api/download?platform=linux&format=deb"
 apt-get install ./discord.deb
