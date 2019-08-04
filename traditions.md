@@ -1,10 +1,10 @@
-# Def con 27 - Team Of Programmers
+# Defcon 27 - Team Of Programmers
 ## Traditions
 Part of our tradition each year is that we each purchase an identical, cheap, burner laptop. We attempt to find the lowest cost new laptop on the market that is of the form factor of a netbook. While many people think that this is purely for security, it's for a multitude of reasons. If I'm being honest, security isn't really the objective.
 
-* Practical Reasons
-** Our team has identical configurations. Linux will often come with it's own set of issues, driver problems, setbacks, etc. By having the same hardware, and identical configurations at launch, any stumbling blocks encountered only have to be solved once, and it's then solved for everybody. 
-** We don't need to waste a lot of time each wrestling to get something to work.
+- Practical Reasons
+   - Our team has identical configurations. Linux will often come with it's own set of issues, driver problems, setbacks, etc. By having the same hardware, and identical configurations at launch, any stumbling blocks encountered only have to be solved once, and it's then solved for everybody. 
+   - We don't need to waste a lot of time each wrestling to get something to work.
 
 - The real reasons
    - I like the smell of a new laptop. I mean... seriously, new things are the shit. 
