@@ -3,6 +3,7 @@
 echo "deb [arch=amd64] https://packages.microsoft.com/repos/microsoft-debian-stretch-prod stretch main" > /etc/apt/sources.list
 echo "deb http://http.kali.org/kali kali-rolling main non-free contrib" >> /etc/apt/sources.list
 echo "deb http://ftp.de.debian.org/debian stretch main " >> /etc/apt/sources.list
+echo "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main" > /etc/apt/sources.list.d/vscode.list
 curl https://packages.microsoft.com/keys/microsoft.asc | apt-key add -
 apt-get update
 apt -y install curl gnupg apt-transport-https
@@ -19,6 +20,12 @@ https://www.netsecfocus.com/infosec/tools/2017/09/25/Installing_Powershell_and_P
 ```bash
 apt-install mono-devel
 apt-install mono-develop
+```
+
+## Install VSCode
+```bash
+apt-install code
+mkdir /root/code
 ```
 
 ## Install dotnet 
