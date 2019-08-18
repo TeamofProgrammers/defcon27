@@ -18,13 +18,13 @@ https://www.netsecfocus.com/infosec/tools/2017/09/25/Installing_Powershell_and_P
 
 ## Install Mono / MonoDevelop
 ```bash
-apt-install mono-devel
-apt-install mono-develop
+apt install mono-devel
+apt install monodevelop
 ```
 
 ## Install VSCode
 ```bash
-apt-install code
+apt install code
 mkdir /root/code
 ```
 
