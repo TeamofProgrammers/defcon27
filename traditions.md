@@ -7,7 +7,7 @@ Part of our tradition each year is that we each purchase an identical, cheap, bu
    - We don't need to waste a lot of time each wrestling to get something to work.
 
 - The real reasons
-   - I like the smell of a new laptop. I mean... seriously, new things are the shit. 
+   - I mean... seriously, new things are the shit. 
 
 ## Kali Linux
 The distro shame is real, nothing turns me off from a conversation quicker than a distro shamer.  The main reason kali is chosen, is that it's comes with most everything we need out of the box, plus more tools to explore and tinker with. We have no interest in building an entire distro from source. Plus it looks cool. Next year we are going to all get kali tramp stamped while in vegas. It will be fun. 

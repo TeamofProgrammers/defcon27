@@ -39,3 +39,14 @@ apt install dotnet-sdk-2.2
 wget -O discord.deb "https://discordapp.com/api/download?platform=linux&format=deb"
 apt-get install ./discord.deb
 ```
+
+## Using built in chromium and installing Google Chrome
+you can run chromium on kali by typing ``chromium --no-sandbox`` in the run dialog. Using the default shortcuts built in will fail when running as root due to the nature of chrome wanting to not run as root! I would like to iterate that this is a horrible idea, but, lets do it anyways. 
+
+Why not just run firefox? 
+mainly just because firefox doesn't handle the touch screen well.
+
+```bash
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+apt install ./google-chrome-stable_current_amd64.deb 
+```
